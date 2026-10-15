@@ -1,0 +1,17 @@
+[
+  {
+    "id": "admin",
+    "name": "Admin",
+    "email": "bj@gmail.com",
+    "password": "bj",
+    "role": "admin"
+  },
+  {
+    "id": "usr_1792025916563",
+    "name": "bj",
+    "email": "bl@a.com",
+    "password": "admin",
+    "role": "user",
+    "createdAt": "2026-10-15T00:58:36.563Z"
+  }
+]

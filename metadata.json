@@ -1,0 +1,6 @@
+{
+  "name": "AgriShop",
+  "description": "農業用ECサイト（果物・野菜）",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ord_1783558478677",
+    "userId": "admin",
+    "paymentMethod": "credit-card",
+    "items": [
+      {
+        "productId": "prod_1",
+        "name": "青森県産 プレミアムふじりんご",
+        "price": 3500,
+        "quantity": 1
+      }
+    ],
+    "total": 3500,
+    "status": "pending",
+    "createdAt": "2026-07-09T00:54:38.677Z",
+    "isViewedByAdmin": true
+  },
+  {
+    "id": "ord_fake_banana",
+    "userId": "admin",
+    "paymentMethod": "credit-card",
+    "items": [
+      {
+        "productId": "prod_cut_fruit",
+        "name": "新鮮カットフルーツ盛り合わせ",
+        "price": 1500,
+        "quantity": 1000
+      }
+    ],
+    "total": 98000,
+    "status": "pending",
+    "createdAt": "2026-07-09T01:01:13.309Z",
+    "isViewedByAdmin": true
+  },
+  {
+    "id": "ord_1784163892692",
+    "userId": "usr_1784163873907",
+    "paymentMethod": "credit-card",
+    "shippingAddress": {
+      "name": "aa",
+      "zip": "457-0844",
+      "address": "５ー１１",
+      "phone": "44"
+    },
+    "items": [
+      {
+        "productId": "prod_1",
+        "name": "青森県産 プレミアムふじりんご",
+        "price": 3500,
+        "quantity": 1
+      }
+    ],
+    "total": 3500,
+    "status": "pending",
+    "createdAt": "2026-07-16T01:04:52.692Z",
+    "isViewedByAdmin": true
+  },
+  {
+    "id": "ord_1784165354155",
+    "userId": "usr_1784163873907",
+    "paymentMethod": "credit-card",
+    "shippingAddress": {
+      "name": "aa",
+      "zip": "457-0844",
+      "address": "５ー１１",
+      "phone": "22"
+    },
+    "items": [
+      {
+        "productId": "prod_5",
+        "name": "宮崎県産 完熟マンゴー",
+        "price": 6500,
+        "quantity": 1
+      }
+    ],
+    "total": 6500,
+    "status": "pending",
+    "createdAt": "2026-07-16T01:29:14.155Z",
+    "isViewedByAdmin": true
+  }
+]
